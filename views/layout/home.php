@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <h1 class="text-uppercase">
-                    <strong>Nuestro Negocio es dar solución</strong>
+                    <strong>Nuestro negocio es conocer las necesidades de su negocio</strong>
                 </h1>
                 <hr>
             </div>

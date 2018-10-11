@@ -1,4 +1,48 @@
 // Styling for the services section
 .service-box {
-  max-width: 400px;
+    max-width: 400px;
+}
+
+
+/**
+* Layout
+**/
+
+.servicio__layout {
+    .title__layout {
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 300;
+            line-height: 1.2;
+            font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        }
+    }
+    .wrap__info {
+        .info__title {
+            h1 {
+                font-size: 2rem;
+                font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+                font-weight: 500;
+                line-height: 1.2;
+                text-align: center;
+            }
+        }
+        .info__suptitle {
+            margin-top: 1rem;
+            h2 {
+                font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+                font-size: 1rem;
+                font-weight: 200;
+                line-height: 1.5;
+                color: inherit;
+                text-align: center;
+            }
+        }
+        .info__img {
+            img {
+                max-width: 200px;
+                margin: 0 auto;
+            }
+        }
+    }
 }

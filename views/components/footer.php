@@ -41,8 +41,8 @@
                     </div>
                     <div class="contat__footer__body">
                         <p>
-                        <b>Dpto. Comercial: </b>comercial@isoweb.co<br>
-                        <b>Soporte: </b>soporte@isoweb.co
+                        <b>Dpto. Comercial: </b>comercial@isoweb.com.co <br>
+                        <b>Dpto. Soporte: </b>Soporte@isoweb.com.co
                         </p>
                     </div>
                 </div>
@@ -54,8 +54,8 @@
                     </div>
                     <div class="contat__footer__body">
                         <p>
-                            ### ##### ## ### ##<br>
-                            <b>Teléfono: </b>+00 000 000 000
+                        Carrera 53 # 104b - 35 oficina 305<br>
+                            <b>Teléfono: </b>(057-1) 3470958
                         </p>
                     </div>
                 </div>

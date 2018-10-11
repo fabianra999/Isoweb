@@ -190,7 +190,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/fondo/fondo-slider.png");
+  background-image: url("../img/fondo/fondo-slider.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -205,10 +205,15 @@ header.masthead hr {
 
 header.masthead h1 {
   font-size: 2rem;
+  color: #3d249a;
+  text-shadow: 0px 0px 17px #ffffff87;
 }
 
 header.masthead p {
   font-weight: 300;
+  color: #3d249a;
+  background: #ffffff82;
+  border-radius: 10px;
 }
 
 @media (min-width: 768px) {
@@ -225,18 +230,54 @@ header.masthead p {
     padding-bottom: 0;
   }
   header.masthead h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
 
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
 
 .service-box {
   max-width: 400px;
+}
+
+/**
+* Layout
+**/
+.servicio__layout .title__layout h1 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.servicio__layout .wrap__info .info__title h1 {
+  font-size: 2rem;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.servicio__layout .wrap__info .info__suptitle {
+  margin-top: 1rem;
+}
+
+.servicio__layout .wrap__info .info__suptitle h2 {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+  line-height: 1.5;
+  color: inherit;
+  text-align: center;
+}
+
+.servicio__layout .wrap__info .info__img img {
+  max-width: 200px;
+  margin: 0 auto;
 }
 
 .portfolio-box {
