@@ -36,8 +36,10 @@
         }
     }
     @media (min-width: 992px) {
-        border-color: transparent;
-        background-color: transparent;
+        //border-color: transparent;
+        // background-color: transparent;
+        border-bottom: 1px solid rgba(33, 37, 41, .1);
+        background-color: rgba(255, 255, 255, 0.33);
         .navbar-brand {
             color: fade-out($white, .3);
             &:focus,
@@ -55,7 +57,7 @@
         }
         .navbar-nav>li.nav-item>a.nav-link,
         .navbar-nav>li.nav-item>a.nav-link:focus {
-            color: fade-out($white, .3);
+            color: fade-out($black, .3);
             &:hover {
                 color: $white;
             }
