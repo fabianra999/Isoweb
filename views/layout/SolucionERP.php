@@ -52,10 +52,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="title__layout ">
-                    <h1 class="">Desarrollo e-Commerce.</h1>
+                    <h1 class="">sistema ERP.</h1>
                     <p class="lead"></p>
                     <hr class="my-4">
-                    <p class="text-center">Crea tu E-commerce y haz crecer tu negocio</p>
+                    <p class="text-center">Controla todo tu Negocio desde cualquier <b>Dispositivo</b> y en cualquier <b>Lugar</b>!</p>
                 </div>
             </div>
         </div>    
@@ -66,73 +66,76 @@
         <div class="row">
             <hr>
         </div>
-        <div class="row align-items-center">
-            <div class="col-12">
+        <div class="row">
+            <div class="col-12 col-sm-6">
                 <div class="wrap__info">
+                    <div class="tools__title text-center ">
+                        <h2>¿Qué es un sistema ERP?</h2>
+                    </div>
                     <div class="info__text">
                         <p class="text-muted">
-                            La era digital ya es una realidad, adaptarse a ella resulta fundamental para cualquier organización. En tiempos donde la competencia es cada vez mayor, herramientas digitales proporcionan ventajas significativas que potencian cualquier negocio. Queremos que seas parte de la Evolución Digital, integrando soluciones para que logres el éxito en el mundo tecnológico.
+                            Es un sistema computacional que se dedica a la planeación de recursos en una empresa. Sus siglas son Enterprice Resource Planning, es decir planificación de recursos empresariales. Integra operaciones de una empresa tales como producción, logística, inventario, ventas, envíos, finanzas y contabilidad. <br>
+                            El sistema ERP funciona a través de módulos, los cuales se van integrando según las necesidades de la empresa.
                         </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6">
+                <div class="wrap__info">
+                    <div class="info__img">
+                        <img class="d-block" src="img/flujo-ERP-400x400.png" style="max-width: 300px;">
+                    </div>
+                    <div class="info__suptitle">
+                        <h2></h2>
                     </div>
                 </div>
             </div>
         </div> 
+        
+        <div class="row mt-5">
+            <div class="col-12 col-sm-6">
+                <div class="tools__title text-center ">
+                    <h2>¿Qué ofrecemos?</h2>
+                </div>
+                <div class="tools__text">
+                    <p>
+                    Queremos conocer tu negocio en todas sus aristas. Nos resulta fundamental comprender el modelo de tu empresa y operación actual, de esta manera, podremos integrar soluciones que optimicen los procesos y hagan crecer su negocio. <br>
+                    
+                    <ul>
+                        <li><b>Coste cero</b> de la licencia, a diferencia de otros <b>ERP</b></li>
+                        <li>Levantamiento de sistema <b>ERP</b></li>
+                        <li>Capacitación <b>presencial y online.</b></li>
+                        <li>Sistema de <b>código abierto</b></li>
+                        <li>Desarrollos y actualizaciones constantemente</li>
+                        <li>Información en <b>tiempo real</b></li>
+                        <li>Podrás controlar tu negocio desde Tu <b>Smartphone o Tablets</b></li>
+                    </ul>
+                    </p>
+                </div>
+            </div>
 
-        <div class="row align-items-center mt-4">   
-            <div class="col-12">
-                <div class="wrap__info">
-                    <div class="info__suptitle">
-                        <h2>PLATAFORMA ECOMMERCE</h2>
-                    </div>
+            <div class="col-12 col-sm-6">
+                <div class="tools__title text-center ">
+                    <h2>Beneficios de tener un ERP en la empresa</h2>
+                </div>
+                <div class="tools__text">
+                    <p>
+                    Con un sistema ERP integrado en su empresa, las barreras de información entre los diferentes departamentos se hacen más ligeras, logrando acciones coordinadas y consecuentes con los objetivos organizacionales. <br>
+                    Las ventajas de un ERP. <br>
+                    <ul>
+                        <li><b>Estandariza procesos</b> y operaciones</li>
+                        <li><b>Ahorro</b> de costos</li>
+                        <li>Información actualizada en <b>tiempo real</b></li>
+                        <li>Facilita la <b>toma de decisiones</b></li>
+                        <li><b>Se adapta a las necesidades</b> de tu empresa</li>
+                        <li>Mejora de <b>comunicación</b></li>
+                        <li>Mayor <b>control</b> y trazabilidad</li>
+                        <li>Mayor <b>competitividad</b></li>
+                        <li><b>Unificación</b> de la información</li>
+                    </ul>
+                    </p>
                 </div>
             </div>
-            <div class="col-12 col-sm-8">
-                <div class="wrap__info">
-                    <div class="info__text">
-                        <p>
-                            El primer paso es tener un canal de venta Online. Para esto, integramos una plataforma E-Commerce que te permitirá vender tus productos de manera rápida, sencilla y segura. A través de una plataforma amigable, podrás administrar tu Tienda Online utilizando diferentes dispositivos. Recuerda que para todo negocio, tener presencia en Internet, se vuelve casi una obligación.
-                        </p>
-                    </div>
-                </div>
-            </div> 
-            <div class="col-12 col-sm-4">
-                <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/1-300x300.png" >
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row align-items-center">   
-            <div class="col-12">
-                <div class="wrap__info">
-                    <div class="info__suptitle">
-                        <h2>DISEÑO PERSONALIZADO</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-sm-4">
-                <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/1-300x300.png" >
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-sm-8">
-                <div class="wrap__info">
-                    <div class="info__text">
-                        <p>
-                        Nos preocupamos de todos los detalles en aspecto funcional y en el aspecto gráfico de su sitio, logrando un resultado atractivo permitiendo una experiencia significativa y valiosa para el usuario.
-                        </p>
-                        <ul>
-                            <li>Diseños atractivos, flexibles y profesionales.</li>
-                            <li>Funcionalidades de acuerdo a sus necesidades.</li>
-                            <li>Diseño creado para uso <b>MOBILE</b>.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div> 
         </div>
     </div>
 

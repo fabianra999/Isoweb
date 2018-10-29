@@ -55,7 +55,11 @@
                     <h1 class="">Asesoría y Consultoría Digital.</h1>
                     <p class="lead"></p>
                     <hr class="my-4">
-                    <p class="text-center">Traemos tus ideas a la Realidad!</p>
+                    <p class="text-center">
+                    Integrarse al mundo digital de manera exitosa puede ser complejo para cualquier negocio, más aún para las empresas que se encuentran recién ingresando a esta nueva “Era Digital”. Lograr una correcta implementación de las diferentes herramientas disponibles en este ámbito resulta un desafío que llevará al negocio a escalar a un nivel superior, optimizando y automatizando muchos de los procesos que antes, eran tediosos y rutinarios.
+<br>
+                    Ponemos nuestros conocimientos y herramientas a disposición de las empresas, con el propósito de generar un ambiente de cultura tecnológica digital.
+                    </p>
                 </div>
             </div>
         </div>    
@@ -64,37 +68,47 @@
     <!-- Info -->
     <div class="container">
         <div class="row">
-            
             <hr>
         </div>
-        <div class="row">
-            <div class="col-12 col-sm-4">
-                <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/1-300x300.png" >
-                    </div>
-                    <div class="info__suptitle">
-                        <h2>TE ACOMPAÑAMOS EN EL RECORRIDO DEL DESARROLLO ENFOCÁNDONOS EN LOGRAR EL ÉXITO!</h2>
-                    </div>
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="tools__title text-center ">
+                    <h2>¿POR QUÉ ELEGIRNOS?</h2>
+                </div>
+                <div class="tools__text text-center">
+                    <p>
+                    El compromiso con nuestros clientes es garantizado, otorgando soluciones integrales <br>  en cada proyecto que se nos presenta.
+                </p>
                 </div>
             </div>
             <div class="col-12 col-sm-4">
-            <div class="wrap__info">
-                    <div class="info__text">
-                        <p class="text-muted">Nos encargamos de desarrollar paginas web diseñadas y preparadas para toda las necesidades de un proyecto o negocio. Nuestra tarea es analizar en detalle los requerimientos, de esta forma llevamos todas las ideas y conceptos a una plataforma web, generando una herramienta digital con un gran potencial en el mercado.</p>
-                    </div>
+                <div class="tools__content text-center">
+                    <i class="fa fa-eye" aria-hidden="true"></i>
+                    <h2>Visión 360°</h2>
+                    <p class="">
+                    Visión global de la empresa, brindando soluciones en cada <br>una de las aristas del negocio.
+                    </p>
                 </div>
             </div>
             <div class="col-12 col-sm-4">
-            <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/2-300x300.png" >
-                    </div>
-                    <div class="info__suptitle">
-                        <h2>DesarrolloChile, Brinda Vanguardia y tecnología de punta para tus desarrollos web, entregando un servicio integral y de alto valor diferencial en el mercado.</h2>
-                    </div>
-                </div></div>    
-        </div>    
+                <div class="tools__content text-center">
+                    <i class="fa fa-globe" aria-hidden="true"></i>
+                    <h2>Desarrollo</h2>
+                    <p class="">
+                    Desarrollamos soluciones personalizadas según los diferentes requerimientos de nuestros clientes.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4">
+                <div class="tools__content text-center">    
+                    <i class="fa fa-bar-chart" aria-hidden="true"></i>
+                    <h2>Experiencia</h2>
+                    <p class="">
+                    Somos especialistas en soluciones digitales. Aprendizaje <br>continuo forma parte de nuestra metodología.
+                    </p>
+                </div>
+            </div>
+        </div>  
     </div>
 
 </section>

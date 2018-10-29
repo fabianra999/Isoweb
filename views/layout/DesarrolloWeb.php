@@ -91,10 +91,39 @@
                         <img class="d-block" src="img/2-300x300.png" >
                     </div>
                     <div class="info__suptitle">
-                        <h2>DesarrolloChile, Brinda Vanguardia y tecnología de punta para tus desarrollos web, entregando un servicio integral y de alto valor diferencial en el mercado.</h2>
+                        <h2>Brinda Vanguardia y tecnología de punta para tus desarrollos web, entregando un servicio integral y de alto valor diferencial en el mercado.</h2>
                     </div>
-                </div></div>    
-        </div>    
+                </div>
+            </div>    
+        </div> 
+        
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="tools__title text-center ">
+                    <h2>Tecnología Digital</h2>
+                </div>
+                <div class="tools__text text-center">
+                    <p>
+                        Que facilita la Transformación Digital <br>
+                        Trabajamos con ultima tecnología digital, enfocándonos a integrar códigos y diseños de fácil adaptación favoreciendo a la escalabilidad que se necesita para lograr la </p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4">
+                <div class="tools__content text-center">
+                    <i class="fa fa-html5" aria-hidden="true"></i>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4">
+                <div class="tools__content text-center">
+                    <i class="fa fa-css3" aria-hidden="true"></i>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4">
+                <div class="tools__content text-center">    
+                    <i class="fa fa-btc" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
     </div>
 
 </section>

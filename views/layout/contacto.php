@@ -28,7 +28,10 @@
             </div>
             <div class="row justify-content-center mt-4">
                 <div class="col-12 col-sm-4 text-center">
-                    <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">Comenzar ya!</a>
+                    <a class="btn__wix js-scroll-trigger" href="#services">
+                        <i class="fa fa-plus" aria-hidden="true"></i>
+                        <span>Comenzar ya!</span>
+                    </a>
                 </div>
             </div>
         </div>

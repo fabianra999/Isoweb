@@ -44,7 +44,7 @@
             color: fade-out($white, .3);
             &:focus,
             &:hover {
-                color: $white;
+                color: #1578c1;
             }
             img {
                 width: 100%;
@@ -59,7 +59,8 @@
         .navbar-nav>li.nav-item>a.nav-link:focus {
             color: fade-out($black, .3);
             &:hover {
-                color: $white;
+                //color: $white;
+                color: #1578c1 !important;
             }
         }
         &.navbar-shrink {

@@ -64,36 +64,83 @@
     <!-- Info -->
     <div class="container">
         <div class="row">
-            
             <hr>
         </div>
-        <div class="row">
-            <div class="col-12 col-sm-4">
+        <div class="row align-items-center mt-4">   
+            <div class="col-12">
                 <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/1-300x300.png" >
-                    </div>
                     <div class="info__suptitle">
-                        <h2>TE ACOMPAÑAMOS EN EL RECORRIDO DEL DESARROLLO ENFOCÁNDONOS EN LOGRAR EL ÉXITO!</h2>
+                        <h2>Desarrollo App.</h2>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-4">
-            <div class="wrap__info">
+            <div class="col-12 col-sm-8">
+                <div class="wrap__info">
                     <div class="info__text">
-                        <p class="text-muted">Nos encargamos de desarrollar paginas web diseñadas y preparadas para toda las necesidades de un proyecto o negocio. Nuestra tarea es analizar en detalle los requerimientos, de esta forma llevamos todas las ideas y conceptos a una plataforma web, generando una herramienta digital con un gran potencial en el mercado.</p>
+                        <p>
+                            Por que nos mantenemos en la constante búsqueda  para brindar las mejores e innovadoras herramientas. Te presentamos tres soluciones ideales de alta calidad y tecnología, que te permitirán avanzar con tus proyectos adaptándolos a la velocidad del mundo de hoy.
+                        </p>
+                    </div>
+                </div>
+            </div>  
+
+            <div class="col-12 mt-4">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">CONECTA TU TIENDA ONLINE CON UNA APP</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">DESARROLLO DE APPS A MEDIDA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">DESARROLLA TU IDEA</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <div class= "container">
+                        <div class= "row align-items-center">
+                            <div class="col-12 col-sm-8">
+                                <p>
+                                Contar con una aplicación móvil en tu e-commerce puede ser una de las estrategias que formen parte de la clave del éxito de tu negocio. Tras un largo periodo de investigación y desarrollo, hemos logrado crear una herramienta que te permitirá conectar fácilmente todas las actividades de tu tienda online, permitiendo una experiencia de compra fácil, sencilla y rápida de usar. Disponible para IOS & Android, diferénciate de tu competencia utilizando las ultimas tecnologías digitales.
+                                </p>
+                            </div>
+                            <div class="col-12 col-sm-4">
+                                <div class="info__img">
+                                    <img class="d-block w-100" src="img/demo-apptienda-500x500.png" >
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                        <div class= "row align-items-center">
+                                <div class="col-12 col-sm-8">
+                                    <p>Contamos con la mejor tecnología digital adaptable para el desarrollo de tus ideas. Gracias a nuestras soluciones digitales, hemos logrado compatibilizar la plataforma WordPress, el cual es el CMS mas usado en la creación de paginas web , permitiendo Conectar tu sitio web logrando funcionalidades y una apariencia totalmente a tu gusto.  Si no tienes tu pagina web nosotros te la creamos y así llevaremos tus ideas a la realidad digital.</p>
+                                </div>
+                                <div class="col-12 col-sm-4">
+                                    <div class="info__img">
+                                        <img class="d-block w-100" src="img/appamedida-500x500.png" >
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                        <div class= "row align-items-center">
+                            <div class="col-12 col-sm-8">
+                                <p>
+                                    Te acompañamos en todos los procesos para desarrollo de tu idea, entregándote las mejores herramientas que podrán adaptarse a tu negocio y entregarte toda la tecnología de última generación, adaptada a la velocidad del mundo de hoy. Contamos con soluciones al alcance de tu bolsillo. Conocemos el alto costo en el mercado de desarrollo de aplicaciones móviles, y es por esto que nos enfocamos en entregar tecnologías superiores e innovadoras que te harán optimizar tú presupuesto. Atrévete a desarrollar tus ideas.
+                                </p>
+                            </div>
+                            <div class="col-12 col-sm-4">
+                                <div class="info__img">
+                                    <img class="d-block w-100" src="img/appcreatuidea.png" >
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-4">
-            <div class="wrap__info">
-                    <div class="info__img">
-                        <img class="d-block" src="img/2-300x300.png" >
-                    </div>
-                    <div class="info__suptitle">
-                        <h2>DesarrolloChile, Brinda Vanguardia y tecnología de punta para tus desarrollos web, entregando un servicio integral y de alto valor diferencial en el mercado.</h2>
-                    </div>
-                </div></div>    
         </div>    
     </div>
 

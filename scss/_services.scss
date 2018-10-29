@@ -45,4 +45,29 @@
             }
         }
     }
+    .tools__title {
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 300;
+            line-height: 1.2;
+            font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        }
+    }
+    .tools__text {
+        margin: 1rem 0 2rem;
+        p {
+            font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+            font-size: 1rem;
+            font-weight: 200;
+            line-height: 1.5;
+            color: inherit;
+            text-align: center;
+        }
+    }
+    .tools__content {
+        i {
+            font-size: 2rem;
+            olor: grey;
+        }
+    }
 }

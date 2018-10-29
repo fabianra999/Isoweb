@@ -52,13 +52,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="title__layout ">
-                    <h1 class="">Desarrollo e-Learning.</h1>
+                    <h1 class="">La inteligencia empresarial como nunca antes la habías visto.</h1>
                     <p class="lead"></p>
                     <hr class="my-4">
-                    <p class="text-center">
-                        <b>LA EVOLUCIÓN DEL APRENDIZAJE</b> <br>
-                        Mantener capacitados a tus colaboradores eleva el producto o servicio de tu empresa.
-                    </p>
+                    <p class="text-center">Controla todo tu Negocio desde cualquier <b>Dispositivo</b> y en cualquier <b>Lugar</b>!</p>
                 </div>
             </div>
         </div>    
@@ -69,42 +66,75 @@
         <div class="row">
             <hr>
         </div>
-        <div class="row align-items-center"> 
-        <div class="row align-items-center mt-4">   
-            <div class="col-12">
+        <div class="row">
+            <div class="col-12 col-sm-6">
                 <div class="wrap__info">
-                    <div class="info__suptitle">
-                        <h2>IMPLEMENTACIÓN Y CUSTOMIZACIÓN DE PLATAFORMA MOODLE</h2>
+                    <div class="tools__title text-center ">
+                        <h2>La inteligencia empresarial como nunca antes la habías visto.</h2>
+                    </div>
+                    <div class="info__text">
+                        <p class="text-muted">
+                        Este sistema ayuda a comprender de mejor forma el actual funcionamiento de la empresa, a través de un panel en el cual podrás visualizar de manera dinámica y en tiempo real los datos que engloban a su negocio.
+                        </p>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-8">
-                <div class="wrap__info">
-                    <div class="info__text">
-                        <p>
-                        MOODLE es una plataforma web Open Source, diseñado para ayudar a los educadores a crear cursos en línea de alta calidad y entornos de aprendizaje virtuales. Tales sistemas de aprendizaje en línea son algunas veces llamados VLEs (Virtual Learning Environments) o entornos virtuales de aprendizaje.
-
-Contamos con un sistemas de vanguardia con la posibilidad de compatibilizar el SCORM con las plataformas que hoy en día se utilizan.
-                        </p>
-                        <ul>
-                            <li>Customización de la plataforma web</li>
-                            <li>Implementación de plataforma web</li>
-                            <li>Diseño personalizable</li>
-                            <li>Diseño Responsive</li>
-                            <li>Capacitación</li>
-                            <li>Acompañamiento y mejoras continuas</li>
-                        </ul>
-                    </div>
-                </div>
-            </div> 
-            <div class="col-12 col-sm-4">
+            <div class="col-12 col-sm-6">
                 <div class="wrap__info">
                     <div class="info__img">
-                        <img class="d-block" src="img/1-300x300.png" >
+                        <img class="d-block" src="img/panel-de-bi.png" style="max-width: 300px;">
+                    </div>
+                    <div class="info__suptitle">
+                        <h2></h2>
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+        <div class="row">
+            <div class="col-12">
+            <div class="wrap__info">
+                    <div class="tools__title text-center ">
+                        <h2>¿Qué es un BI?</h2>
+                    </div>
+                    <div class="info__text">
+                        <p class="text-muted">
+                        Bi o Business Intelligence es un conjunto de herramientas de análisis empresariales que ofrece información a su organización. Conéctese a miles de orígenes de datos, simplifique la preparación de datos y genere informes atractivos y dinámicos. Elabore informes que podrán ser visualizados en diferentes dispositivos móviles, obteniendo una vista exclusiva de 360° de su empresa.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
+        
+        <div class="row mt-5">
+            <div class="col-12 col-sm-6">
+                <div class="tools__title text-center ">
+                    <h2>¿Cómo funciona?</h2>
+                </div>
+                <div class="tools__text">
+                    <p>
+                    Las herramientas de inteligencia de negocios se basan en la utilización de un sistema que se forma con distintos datos extraídos de diferentes áreas de la empresa, ya sea producción, inventario, ventas, finanzas, etc. <br>
+                    BI accede a los datos de su negocio, analiza y le permite visualizar de manera tal que la persona encargada de tomar decisiones en el área, cuente con información relevante y procesada para la tarea.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6">
+                <div class="tools__title text-center ">
+                    <h2>Beneficios de tener un BI en tu empresa</h2>
+                </div>
+                <div class="tools__text">
+                    <p>
+                    <ul>
+                        <li>Permite tomar decisiones rápidas y seguras</li>
+                        <li>Información actualizada y en tiempo real</li>
+                        <li>Hace de un informe estático, una presentación dinámica y actualizada</li>
+                        <li>Reemplazan la multitud de informes</li>
+                        <li>Agrupa toda la información en una sola BB.DD, llamada Datawarehouse</li>
+                    </ul>
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 

@@ -94,3 +94,52 @@ img::-moz-selection {
         padding: 1rem;
     }
 }
+
+
+/**
+* Btn 
+**/
+
+.btn__wix {
+    position: relative;
+    background-color: rgba(212, 19, 23, 1);
+    border: solid rgba(43, 104, 156, 1) 0px;
+    border-radius: 0 !important;
+    padding: 0.7rem 2rem;
+    padding-left: 4rem;
+    >i {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 50px;
+        background: rgba(26, 43, 109, 1);
+        &::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #FFFFFF;
+        }
+    }
+    span {
+        font: normal normal normal 17px/1.4em helvetica-w01-light, helvetica-w02-light, sans-serif;
+        transition: color 0.4s ease 0s;
+        color: #FFFFFF;
+        display: inline-block;
+        margin: calc(-1 * 0px) 0px 0;
+        position: relative;
+        white-space: nowrap;
+    }
+}
+
+
+/**
+* Logo header
+**/
+
+.navbar-brand {
+    background: white;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+}
