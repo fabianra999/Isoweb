@@ -13,24 +13,24 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="First slide">
+                            <img class="d-block w-100" src="img/rotador/escritorio cafe.jpg" alt="First slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 1</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Organizar su negocio</h5>
+                                <p>Información en línea.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="Second slide">
+                            <img class="d-block w-100" src="img/rotador/portatil ventana2.jpg" alt="Second slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 2</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Manejo intuitivo</h5>
+                                <p>fácil de utilizar.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="Third slide">
+                            <img class="d-block w-100" src="img/rotador/portatil oficina ventana3.jpg" alt="Third slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 3</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Sistema escalable</h5>
+                                <p>crece con su empresa.</p>
                             </div>
                         </div>
                     </div>
@@ -102,13 +102,13 @@
                     Queremos conocer tu negocio en todas sus aristas. Nos resulta fundamental comprender el modelo de tu empresa y operación actual, de esta manera, podremos integrar soluciones que optimicen los procesos y hagan crecer su negocio. <br>
                     
                     <ul>
-                        <li><b>Coste cero</b> de la licencia, a diferencia de otros <b>ERP</b></li>
-                        <li>Levantamiento de sistema <b>ERP</b></li>
+                        <li><b>Costo de licencia</b> por numero de usuarios.</li>
+                        <li>Levantamiento de sistema <b>ERP</b>.</li>
                         <li>Capacitación <b>presencial y online.</b></li>
-                        <li>Sistema de <b>código abierto</b></li>
-                        <li>Desarrollos y actualizaciones constantemente</li>
-                        <li>Información en <b>tiempo real</b></li>
-                        <li>Podrás controlar tu negocio desde Tu <b>Smartphone o Tablets</b></li>
+                        <li>Sistema de <b>código abierto</b> con costo adicional.</li>
+                        <li>Desarrollos y actualizaciones constantemente.</li>
+                        <li>Información en <b>tiempo real</b>.</li>
+                        <li>Podrás controlar tu negocio desde Tu <b>Smartphone o Tablets</b>.</li>
                     </ul>
                     </p>
                 </div>

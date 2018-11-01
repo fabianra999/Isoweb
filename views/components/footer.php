@@ -19,7 +19,7 @@
         <div class="row align-items-start">
             <div class="col-sm-3 d-none d-sm-block footer__col-1 align-self-center">
                 <div class="logo__footer">
-                    <img src="img/isoweb.png" alt="">
+                    <img src="img/Logo_sin_texto.png" alt="">
                 </div>
             </div>
             <div class="col-12 col-sm-3 footer__col-2">
@@ -41,8 +41,8 @@
                     </div>
                     <div class="contat__footer__body">
                         <p>
-                        <b>Dpto. Comercial: </b>comercial@isoweb.com.co <br>
-                        <b>Dpto. Soporte: </b>Soporte@isoweb.com.co
+                        <b>Dpto. Comercial: </b> <br>  comercial@isoweb.com.co <br>
+                        <b>Dpto. Soporte: </b> <br> Soporte@isoweb.com.co
                         </p>
                     </div>
                 </div>
@@ -55,7 +55,8 @@
                     <div class="contat__footer__body">
                         <p>
                         Carrera 53 # 104b - 35 oficina 305<br>
-                            <b>Teléfono: </b>(057-1) 3470958
+                            <b>Teléfono: </b>(057-1) 3470958 <br>
+                            <b>Celular: </b>(057-03) 312 586 9841 <br>
                         </p>
                     </div>
                 </div>

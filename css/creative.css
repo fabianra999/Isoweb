@@ -144,6 +144,18 @@ img::-moz-selection {
   padding: 0.5rem 1rem;
 }
 
+/**
+* carousel
+**/
+.carousel .carousel-item > img {
+  max-height: 480px;
+}
+
+.carousel .carousel-item .carousel-caption {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 15px;
+}
+
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
@@ -201,7 +213,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-brand img {
     width: 100%;
-    max-width: 79px;
+    max-width: 260px;
     height: auto;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
@@ -481,9 +493,16 @@ footer .footer__info {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+footer .footer__info .footer__col-1 .logo__footer {
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+
 footer .footer__info .footer__col-1 .logo__footer img {
   width: 100%;
-  max-width: 200px;
+  max-width: 150px;
   height: auto;
 }
 

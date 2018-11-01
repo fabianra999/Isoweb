@@ -13,24 +13,24 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="First slide">
+                            <img class="d-block w-100" src="img/rotador/oficina tipo 2.jpg" alt="First slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 1</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Organizar su negocio</h5>
+                                <p>Información en línea.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="Second slide">
+                            <img class="d-block w-100" src="img/rotador/portatil oficina escritorio2.jpg" alt="Second slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 2</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Manejo intuitivo</h5>
+                                <p>fácil de utilizar.</p> 
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="img/fondo/fondo-slider1.png" alt="Third slide">
+                            <img class="d-block w-100" src="img/rotador/portatil oficina escritorio 6.jpg" alt="Third slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem ipsum 3</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h5>Sistema escalable</h5>
+                                <p>crece con su empresa.</p>
                             </div>
                         </div>
                     </div>

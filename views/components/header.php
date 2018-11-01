@@ -3,7 +3,11 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>Creative - Start Bootstrap Theme</title>
+<title>ISOWEB SAS</title>
+
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="img/favicon.png" />
 
 <!-- Bootstrap core CSS -->
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
