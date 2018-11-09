@@ -439,6 +439,11 @@ header.masthead p {
   }
 }
 
+#contact img.rounded {
+  max-height: 150px;
+  width: 100%;
+}
+
 footer .newsletter {
   padding: 1rem;
   background-color: #1578c1;

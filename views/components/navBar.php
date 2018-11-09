@@ -1,3 +1,9 @@
+<?php
+/**
+ *  Pat url
+ */
+$url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+?>
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -33,7 +39,11 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#about">Nosotros</a>
+                        <?php if (strpos($url,'index') !== false) {?>
+                            <a class="nav-link js-scroll-trigger" href="#about">Nosotros</a>
+                        <?php } else { ?> 
+                            <a class="nav-link js-scroll-trigger" href="index.php#about">Nosotros</a>
+                         <?php } ?>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a>
