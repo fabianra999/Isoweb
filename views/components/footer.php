@@ -1,20 +1,32 @@
 <footer>
-    <div class="container-fluid newsletter pt-4 pb-4">
-        <div class="row  justify-content-center align-items-center">
-            <div class="col-12 col-sm-5">
-                <h3>Subscríbete en nuestro <span class="text_color">Newsletter</span></h3>
-                <p>Subscríbete en nuestro newsletter y recibe nuestras noticias y novedades!</p>
+    <form id="ajax-newsletter" method="post" action="views/components/newsletter.php">
+        <div class="container-fluid newsletter pt-4 pb-4">
+            <div class="row  justify-content-center align-items-center">
+                <div class="col-12 col-sm-5">
+                    <h3>Subscríbete en nuestro <span class="text_color">Newsletter</span></h3>
+                    <p>Subscríbete en nuestro newsletter y recibe nuestras noticias y novedades!</p>
+                </div>
+                <div class="col-12 col-sm-5 form form-newsletter"> 
+                    <div class="input__wrap">
+                        <input type="email" class="input__web" name="email" placeholder="Ingresa tu e-mail aquí" value="" required="required"> 
+                        <button   type="submit">
+                            <i class="fa fa-bullhorn" aria-hidden="true"></i>
+                        </button >
+                    </div>
+                </div>
             </div>
-            <div class="col-12 col-sm-5 form form-newsletter"> 
-                <div class="input__wrap">
-                    <input type="email" class="input__web" name="email" placeholder="Ingresa tu e-mail aquí" value="" required="required"> 
-                    <a href="#">
-                        <i class="fa fa-bullhorn" aria-hidden="true"></i>
-                    </a>
+            <div class="row">
+                <div class="col-12">
+                    <div id="alertErrorNewslette" class="alert alert-danger d-none mt-4 text-center" role="alert">
+                    Tu mensaje no fue enviado
+                    </div>
+                    <div id="alertSuccessNewslette" class="alert alert-success d-none mt-4 text-center" role="alert">
+                    Tu mensaje fue enviado
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    </form>
     <div class="container-fluid footer__info">
         <div class="row align-items-start">
             <div class="col-sm-3 d-none d-sm-block footer__col-1 align-self-center">

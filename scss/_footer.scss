@@ -24,11 +24,13 @@ footer {
                 font-size: 1rem;
                 vertical-align: middle;
             }
-            a {
+            button {
                 width: 20%;
                 position: relative;
                 display: inline-block;
                 vertical-align: middle;
+                border: none;
+                background: none;
                 i {
                     position: absolute;
                     top: 50%;

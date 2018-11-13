@@ -477,14 +477,16 @@ footer .newsletter .input__wrap .input__web {
   vertical-align: middle;
 }
 
-footer .newsletter .input__wrap a {
+footer .newsletter .input__wrap button {
   width: 20%;
   position: relative;
   display: inline-block;
   vertical-align: middle;
+  border: none;
+  background: none;
 }
 
-footer .newsletter .input__wrap a i {
+footer .newsletter .input__wrap button i {
   position: absolute;
   top: 50%;
   left: 50%;

@@ -72,4 +72,49 @@
         }
     });
 
+
+
+
+    /***
+     *  Functions ajax
+     */
+    function formContacto() {
+        $("#ajax-contact").bind("submit", function() {
+            $.ajax({
+                type: $(this).attr("method"),
+                url: $(this).attr("action"),
+                data: $(this).serialize(),
+                success: function() {
+                    $('#alertSuccess').removeClass("d-none");
+                },
+                error: function() {
+                    $('#alertError').removeClass("d-none");
+                }
+            });
+            return false;
+        });
+    }
+
+    function formNewsletter() {
+        $("#ajax-newsletter").bind("submit", function() {
+            $.ajax({
+                type: $(this).attr("method"),
+                url: $(this).attr("action"),
+                data: $(this).serialize(),
+                success: function() {
+                    $('#alertSuccessNewslette').removeClass("d-none");
+                },
+                error: function() {
+                    $('#alertErrorNewslette').removeClass("d-none");
+                }
+            });
+            return false;
+        });
+    }
+
+
+    // Llamado from
+    formNewsletter();
+    formContacto();
+
 })(jQuery); // End of use strict
