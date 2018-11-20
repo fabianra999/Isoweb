@@ -1,5 +1,4 @@
 <section class="servicio__layout" id="about">
-  
 
     <!-- Carousel -->
     <div class="container-fluid">
@@ -69,7 +68,6 @@
         <div class="row">
             <hr>
         </div>
-        <div class="row align-items-center"> 
         <div class="row align-items-center mt-4">   
             <div class="col-12">
                 <div class="wrap__info">
@@ -78,13 +76,12 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-12 col-sm-8">
                 <div class="wrap__info">
                     <div class="info__text">
                         <p>
-                        MOODLE es una plataforma web Open Source, diseñado para ayudar a los educadores a crear cursos en línea de alta calidad y entornos de aprendizaje virtuales. Tales sistemas de aprendizaje en línea son algunas veces llamados VLEs (Virtual Learning Environments) o entornos virtuales de aprendizaje.
-
-Contamos con un sistemas de vanguardia con la posibilidad de compatibilizar el SCORM con las plataformas que hoy en día se utilizan.
+                        MOODLE es una plataforma web Open Source, diseñado para ayudar a los educadores a crear cursos en línea de alta calidad y entornos de aprendizaje virtuales. Tales sistemas de aprendizaje en línea son algunas veces llamados VLEs (Virtual Learning Environments) o entornos virtuales de aprendizaje. Contamos con un sistemas de vanguardia con la posibilidad de compatibilizar el SCORM con las plataformas que hoy en día se utilizan.
                         </p>
                         <ul>
                             <li>Customización de la plataforma web</li>
@@ -97,6 +94,7 @@ Contamos con un sistemas de vanguardia con la posibilidad de compatibilizar el S
                     </div>
                 </div>
             </div> 
+
             <div class="col-12 col-sm-4">
                 <div class="wrap__info">
                     <div class="info__img">
@@ -104,7 +102,7 @@ Contamos con un sistemas de vanguardia con la posibilidad de compatibilizar el S
                     </div>
                 </div>
             </div>
-        </div>
+
         </div>
     </div>
 
