@@ -78,4 +78,14 @@ footer {
             }
         }
     }
+    .twitterIsoweb,
+    .facebookIsoweb {
+        margin-top: 1rem;
+    }
+    .twitterIsoweb {
+        //max-height: 300px;
+        /* overflow-x: hidden;
+        overflow-y: scroll; */
+    }
+    .facebookIsoweb {}
 }

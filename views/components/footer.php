@@ -35,40 +35,34 @@
                 </div>
             </div>
             <div class="col-12 col-sm-3 footer__col-2">
-                <div class="contat__footer">
-                    <div class="contat__footer__header">
-                        <h1>NOSOTROS</h1>  
-                    </div>
-                    <div class="contat__footer__body">
-                        <p>
-                            ISOWEB S.A.S, ofrecemos innovación con sistemas cien por ciento web para la aplicación de las nuevas tecnologías, comprendiendo las necesidades y generando soluciones integrales hacia nuestros clientes.l
-                        </p>
-                    </div>
+                <div class="twitterIsoweb">
+                    <a class="twitter-timeline" data-height="300px" href="https://twitter.com/isowebsas?ref_src=twsrc%5Etfw">Tweets by isowebsas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div>
             <div class="col-12 col-sm-3 footer__col-3">
-                <div class="contat__footer">
-                    <div class="contat__footer__header">
-                        <h1>CONTACTOS</h1>  
-                    </div>
-                    <div class="contat__footer__body">
-                        <p>
-                        <b>Dpto. Comercial: </b> <br>  comercial@isoweb.com.co <br>
-                        <b>Dpto. Soporte: </b> <br> Soporte@isoweb.com.co
-                        </p>
+                <div class="facebookIsoweb">
+                    <div class="fb-page" data-href="https://www.facebook.com/isowebsas" data-tabs="timeline" data-height="300px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/isowebsas" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/isowebsas">Isoweb SAS</a>
+                        </blockquote>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-sm-3 footer__col-4">
                 <div class="office__footer">
-                    <div class="contat__footer__header">
-                        <h1>NUESTRA OFICINA</h1>  
+                <div class="contat__footer__header">
+                        <h1>CONTACTOS</h1>  
                     </div>
                     <div class="contat__footer__body">
                         <p>
                         Carrera 53 # 104b - 35 oficina 305<br>
                             <b>Teléfono: </b>(057-1) 3470958 <br>
                             <b>Celular: </b>(057-03) 312 586 9841 <br>
+                        </p>
+
+                        <p>
+                        <b>Dpto. Comercial: </b> <br>  comercial@isoweb.com.co <br>
+                        <b>Dpto. Soporte: </b> <br> Soporte@isoweb.com.co
                         </p>
                     </div>
                 </div>

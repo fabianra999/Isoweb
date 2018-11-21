@@ -250,7 +250,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/fondo/fondow.webp");
+  background-image: url("../img/fondo/fondow.png");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -533,6 +533,16 @@ footer .footer__info .footer__col-4 .contat__footer__body p {
   font-weight: 400;
   font-size: 15px;
   line-height: 25px;
+}
+
+footer .twitterIsoweb,
+footer .facebookIsoweb {
+  margin-top: 1rem;
+}
+
+footer .twitterIsoweb {
+  /* overflow-x: hidden;
+        overflow-y: scroll; */
 }
 
 .text-primary {
