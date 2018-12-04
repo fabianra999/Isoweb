@@ -20,6 +20,32 @@
         <!-- Home -->
         <?php include 'views/layout/home.php' ?>
         
+        <!-- Banner top 1280 x 150 || 200-->
+        <?php 
+
+        $bannerDate = false;
+
+        $paymentDate = new DateTime(); 
+        $contractDateBegin = new DateTime('2018-12-04');
+        $contractDateEnd  = new DateTime('2018-12-09');
+        
+        if (
+          $paymentDate->getTimestamp() > $contractDateBegin->getTimestamp() && 
+          $paymentDate->getTimestamp() < $contractDateEnd->getTimestamp()){
+            $bannerDate = true;
+        }else{
+            $bannerDate = false;
+        }
+
+        ?>
+        <?php  if($bannerDate) { ?>
+        <div class="banner__top">
+            <a href="#contact">
+                <img src="img/banners/PROMO.png" alt=""> 
+            </a>
+        </div>
+        <?php  } ?>
+
         <!-- Nosotros -->
         <?php include 'views/layout/nosotros.php' ?>
         

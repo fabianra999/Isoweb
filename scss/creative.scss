@@ -7,4 +7,14 @@
 @import "portfolio.scss";
 @import "contact.scss";
 @import "footer.scss";
+@import "banner.scss";
 @import "bootstrap-overrides.scss";
+
+/**
+* bnners
+**/
+
+.banner__top {
+    text-align: center;
+    margin: 1rem auto 1rem;
+}

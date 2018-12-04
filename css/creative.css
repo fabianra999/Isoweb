@@ -545,6 +545,14 @@ footer .twitterIsoweb {
         overflow-y: scroll; */
 }
 
+/**
+* bnners
+**/
+.banner__top {
+  text-align: center;
+  margin: 0;
+}
+
 .text-primary {
   color: #1578c1 !important;
 }
@@ -573,4 +581,12 @@ footer .twitterIsoweb {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+/**
+* bnners
+**/
+.banner__top {
+  text-align: center;
+  margin: 1rem auto 1rem;
 }
